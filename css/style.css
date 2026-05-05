@@ -5,10 +5,10 @@ body {
 }
 
 header {
-  background-color: #1a73e8;
+  background-color: #e53935;
   color: white;
-  padding: 16px;
-  font-size: 18px;
+  padding: 20px;
+  letter-spacing: 1px;
 }
 
 nav a {
